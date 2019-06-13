@@ -1,5 +1,5 @@
 {
-  "name": "cmbsdk-cordova",
+  "name": "cmb-sdk-cordova-plugin",
   "version": "1.2.14",
   "description": "CMB Scanner Cordova Plugin",
   "cordova": {
